@@ -1,4 +1,4 @@
-## Getting started
+## Getting started
 
 To run this challange you need to have docker installed in your machine, a Nix system is required.
 
