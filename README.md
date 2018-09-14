@@ -23,7 +23,7 @@ bash run.sh
 bash setup_db.sh
 ```
 
-##### to call rake or rails
+##### to call rake or rails
 
 ```bash
 docker-compose run app rake db:migrate
