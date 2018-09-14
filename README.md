@@ -51,8 +51,7 @@ Your goal is to create a website similar to klarx, where a customer can type in 
 #### Allowed to use
 
 1. Matrix and geocoding API [https://graphhopper.com/api/1/docs](https://graphhopper.com/api/1/docs/#matrix-api) (API key: 1a751174-68c0-4792-bf22-60f3ca08712c )
-2. A database of stations and related products in Munich
-3. jQuery and any other Ruby / Javascript / Postgres tool or library you like
+2. jQuery and any other Ruby / Javascript / Postgres tool or library you like
 
 #### Data Structure
 
